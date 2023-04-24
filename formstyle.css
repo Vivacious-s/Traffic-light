@@ -1,6 +1,12 @@
 body{
     font-family: 'Ysabeau', sans-serif;
 }
-.container{
-    
+.field{
+    size: 300px 50px;
 }
+.bg-image{
+    background-image: url(Images/city-skyline-landmarks-illustration_23-2148810172.png);
+    background-repeat: no-repeat;
+    background-size: 100rem;
+}
+
