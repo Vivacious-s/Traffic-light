@@ -1,21 +1,41 @@
 body{
     font-family: 'Ysabeau', sans-serif;
-}
-<<<<<<< HEAD
-.field{
-    size: 300px 50px;
-=======
-.container{
-    
-    display: block;
-    font-size: 50px;
-    padding: 5px;
-    border-radius: 10px;
->>>>>>> 35b4b2849355256fb68229618549c34d9b6dd2b4
-}
-.bg-image{
     background-image: url(Images/city-skyline-landmarks-illustration_23-2148810172.png);
     background-repeat: no-repeat;
     background-size: 100rem;
 }
+h1{
 
+    font-size: 3rem;
+}
+.field{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 30px;
+    width: 400px;
+    height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    
+}
+#complainid{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 30px;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submit{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    margin-top: 50px;
+    font-size: 17px;
+    padding: 10px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
